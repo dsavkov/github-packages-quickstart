@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/dsavkov/github-packages-quickstart/issues"
   },
-  "homepage": "https://github.com/dsavkov/github-packages-quickstart#readme"
+  "homepage": "https://github.com/dsavkov/github-packages-quickstart#readme",
+  "publishConfig": {
+    "@dsavkov:registry": "https://npm.pkg.github.com"
+  }
 }
